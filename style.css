@@ -1,0 +1,38 @@
+body{
+    font-size: 20px;
+    color: rgb(9, 3, 14);
+    width: 400px;
+}
+h1{
+ color: burlywood;
+ text-decoration-color: crimson;
+ opacity: inherit;
+ text-shadow: -1px 2px 3px #000;
+ margin: 10%;
+}
+h2{
+    color: darkorange;
+    opacity: inherit;
+    font: 40%;
+    text-shadow: -1px 2px 3px #000;
+}
+div{
+    border-radius: 13px solid;
+    text-align: center;
+    border: 4px solid;
+    width: 200px;
+    margin: 20%;
+    box-shadow: inset 2px 3px 14px #000;
+}
+h3{
+    color: blueviolet;
+    text-shadow: 1px 2px 3px #000;
+    margin: 10%;
+}
+.container{
+    color: crimson;
+    border-radius: 10%;
+    display: flexbox;
+    background-position: 10%;
+    
+}
